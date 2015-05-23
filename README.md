@@ -13,3 +13,7 @@ providing parallel examples of data analytics in separate domains centering on a
 Our objetive is helping the astronomical and the geoscience communities
 interchange ideas and methodologies to
 identify and exploit the possibilities for collaboration and cross-pollination.
+
+GitHub now supports Jupyter notebooks. 
+To contribute to the repository, please feel free to fork it and let us know. 
+
